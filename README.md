@@ -7,6 +7,12 @@ System Aukcyjny REST API to aplikacja webowa umożliwiająca zarządzanie użytk
 
 Aplikacja udostępnia REST API do obsługi użytkowników, aukcji oraz ofert, a także prosty frontend komunikujący się z backendem wyłącznie za pomocą zapytań HTTP.
 
+<img width="1456" height="905" alt="Zrzut ekranu 2026-06-20 o 21 17 18" src="https://github.com/user-attachments/assets/47ff51ab-6457-4382-af18-4300184ec72d" />
+<img width="1459" height="904" alt="Zrzut ekranu 2026-06-20 o 21 17 33" src="https://github.com/user-attachments/assets/a089abf8-f058-4779-ae0a-8f00a5518f61" />
+<img width="1462" height="903" alt="Zrzut ekranu 2026-06-20 o 21 16 52" src="https://github.com/user-attachments/assets/12a6ccff-035b-42bb-80fe-b543cc1a37c5" />
+<img width="1463" height="909" alt="Zrzut ekranu 2026-06-20 o 21 17 07" src="https://github.com/user-attachments/assets/a46454d8-08e3-422b-bfa6-d071971da498" />
+
+
 ## Główne funkcjonalności
 
 ### Zarządzanie użytkownikami
