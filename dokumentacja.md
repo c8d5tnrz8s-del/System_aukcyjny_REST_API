@@ -20,6 +20,13 @@ Link do GitHub
 https://github.com/c8d5tnrz8s-del/System_aukcyjny_REST_API
 ---
 
+
+
+<img width="1462" height="903" alt="Zrzut ekranu 2026-06-20 o 21 16 52" src="https://github.com/user-attachments/assets/bc677ca2-5992-4b55-9b76-6eacee4eeedb" />
+<img width="1463" height="909" alt="Zrzut ekranu 2026-06-20 o 21 17 07" src="https://github.com/user-attachments/assets/228af018-d038-4a1b-bfc4-6d518d31b43c" />
+<img width="1459" height="904" alt="Zrzut ekranu 2026-06-20 o 21 17 33" src="https://github.com/user-attachments/assets/9aaafb81-0584-447e-b4dc-c209806bff45" />
+<img width="1456" height="905" alt="Zrzut ekranu 2026-06-20 o 21 17 18" src="https://github.com/user-attachments/assets/9af0ce0e-c884-4efa-b44f-0766144d6784" />
+
 # 2. Zastosowane technologie
 
 W projekcie wykorzystano następujące technologie:
